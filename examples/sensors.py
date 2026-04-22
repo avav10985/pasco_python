@@ -3,7 +3,7 @@ from pasco import PASCOBLEDevice
 import time
 
 sensor = PASCOBLEDevice()
-sensorID = '123-456'  # Put your 6-digit sensor ID here
+sensorID = '465-706'  # Put your 6-digit sensor ID here
 
 print(f"Attempting to connect to sensor: {sensorID}")
 
